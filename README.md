@@ -2,7 +2,6 @@
 
 > 翻到想法的 B 面 —— AI 笔记&音乐创作 app
 
----
 
 ## 功能亮点
 
@@ -13,7 +12,6 @@
 - **卡片系统** — 笔记、录音、音乐绑定为一张卡片，3D 翻转查看两面内容
 - **iCloud 同步** — SwiftData 本地持久化 + CloudKit 跨设备同步
 
----
 
 ## 技术栈
 
@@ -97,11 +95,13 @@
 
 ## Demo
 
-<img src="ScreenShots/CloudCloud-HomePage.png" width="400" />
+### 首页
+<img src="ScreenShots/CloudCloud-HomePage.png" width="393" />
 
-| 录音笔记 | 富文本编辑 |
+### 动图
+| 录音笔记 | 文本编辑 |
 |:---:|:---:|
-| ![录音笔记](ScreenShots/CloudCloud-DemoVideo-01-Record.gif) | ![富文本编辑](ScreenShots/CloudCloud-DemoVideo-02-TextEdit.gif) |
+| ![录音笔记](ScreenShots/CloudCloud-DemoVideo-01-Record.gif) | ![文本编辑](ScreenShots/CloudCloud-DemoVideo-02-TextEdit.gif) |
 
 | AI 鼓点生成 | 鼓机编辑器 |
 |:---:|:---:|
