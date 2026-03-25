@@ -28,6 +28,24 @@
 
 
 
+## Demo
+
+<img src="ScreenShots/CloudCloud-HomePage.png" width="400" />
+
+| 录音笔记 | 富文本编辑 |
+|:---:|:---:|
+| ![录音笔记](ScreenShots/CloudCloud-DemoVideo-01-Record.gif) | ![富文本编辑](ScreenShots/CloudCloud-DemoVideo-02-TextEdit.gif) |
+
+| AI 鼓点生成 | 鼓机编辑器 |
+|:---:|:---:|
+| ![AI 鼓点生成](ScreenShots/CloudCloud-DemoVideo-03-MusicGeneration.gif) | ![鼓机编辑器](ScreenShots/CloudCloud-DemoVideo-04-Music.gif) |
+
+| 卡片翻转 |
+|:---:|
+| ![卡片翻转](ScreenShots/CloudCloud-DemoVideo-05-CardFlip.gif) |
+
+---
+
 ## 技术架构图
 
 ```
@@ -91,20 +109,6 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-
-## Demo
-
-### 首页
-<img src="ScreenShots/CloudCloud-HomePage.png" width="393" />
-
-### 动图
-| 录音笔记 | 文本编辑 |
-|:---:|:---:|
-| ![录音笔记](ScreenShots/CloudCloud-DemoVideo-01-Record.gif) | ![文本编辑](ScreenShots/CloudCloud-DemoVideo-02-TextEdit.gif) |
-
-| AI 鼓点生成 | 鼓机编辑器 |
-|:---:|:---:|
-| ![AI 鼓点生成](ScreenShots/CloudCloud-DemoVideo-03-MusicGeneration.gif) | ![鼓机编辑器](ScreenShots/CloudCloud-DemoVideo-04-Music.gif) |
 
 ---
 
