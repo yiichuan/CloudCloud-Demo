@@ -97,15 +97,15 @@
 
 ## Demo
 
-![首页](CloudCloud-HomePage.png)
+<img src="ScreenShots/CloudCloud-HomePage.png" width="400" />
 
-![录音笔记](CloudCloud-DemoVideo-01-Record.gif)
+| 录音笔记 | 富文本编辑 |
+|:---:|:---:|
+| ![录音笔记](ScreenShots/CloudCloud-DemoVideo-01-Record.gif) | ![富文本编辑](ScreenShots/CloudCloud-DemoVideo-02-TextEdit.gif) |
 
-![富文本编辑](CloudCloud-DemoVideo-02-TextEdit.gif)
-
-![AI 鼓点生成](CloudCloud-DemoVideo-03-MusicGeneration.gif)
-
-![鼓机编辑器](CloudCloud-DemoVideo-04-Music.gif)
+| AI 鼓点生成 | 鼓机编辑器 |
+|:---:|:---:|
+| ![AI 鼓点生成](ScreenShots/CloudCloud-DemoVideo-03-MusicGeneration.gif) | ![鼓机编辑器](ScreenShots/CloudCloud-DemoVideo-04-Music.gif) |
 
 ---
 
